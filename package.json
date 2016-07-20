@@ -22,7 +22,7 @@
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "babel-cli": "^6.9.0",
-    "babel-core": "^6.9.1",
+    "babel-core": "^6.11.4",
     "babel-eslint": "^6.0.4",
     "babel-loader": "^6.2.3",
     "babel-plugin-async-to-promises": "^1.0.5",
