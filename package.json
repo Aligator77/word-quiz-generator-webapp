@@ -6,7 +6,7 @@
   "bugs": "https://github.com/nodaguti/word-quiz-generator-webapp/issues",
   "dependencies": {
     "babel-runtime": "^6.9.2",
-    "forever": "^0.15.2",
+    "forever": "^0.15.3",
     "fs-extra-promise": "^0.3.1",
     "koa": "^2.0.0-alpha.3",
     "koa-compress": "^1.0.9",
