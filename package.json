@@ -24,7 +24,7 @@
     "babel-cli": "^6.9.0",
     "babel-core": "^6.9.1",
     "babel-eslint": "^6.0.4",
-    "babel-loader": "^6.2.3",
+    "babel-loader": "^6.2.9",
     "babel-plugin-async-to-promises": "^1.0.5",
     "babel-plugin-espower": "^2.2.0",
     "babel-plugin-transform-class-properties": "^6.9.1",
