@@ -34,7 +34,7 @@
     "babel-preset-react": "^6.5.0",
     "camel-case": "^1.2.2",
     "constant-mirror": "^1.1.1",
-    "cpr": "^1.1.1",
+    "cpr": "^2.0.2",
     "cross-env": "^1.0.8",
     "css-loader": "^0.23.1",
     "eslint": "^2.11.1",
